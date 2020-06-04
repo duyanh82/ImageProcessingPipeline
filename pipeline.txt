@@ -1,0 +1,5 @@
+node=greyscale
+node=noise noisePercent=0.3
+node=crop origin=450x50 size=400x400
+node=normalise
+node=vignette
