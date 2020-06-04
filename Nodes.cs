@@ -6,8 +6,6 @@ using System.IO;
 /// <summary>
 /// A set of nodes used to manipulate images
 /// </summary>
-/// <author>Anh Nguyen Dac Duy</author>
-/// <student_id>10603280</student_id>
 namespace Project
 { 
     /// <summary>
